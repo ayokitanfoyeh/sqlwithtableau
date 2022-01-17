@@ -1,3 +1,4 @@
+use mavenfuzzyfactory;
 create temporary table entry_page
 select 
 ws.website_session_id,
