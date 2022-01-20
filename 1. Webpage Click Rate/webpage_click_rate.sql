@@ -1,3 +1,5 @@
+use mavenfuzzyfactory;
+
 create temporary table pageview_level
 select
 ws.website_session_id,
